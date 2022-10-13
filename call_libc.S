@@ -1,7 +1,7 @@
 .data
 msg:
     .ascii "Hello world!\0"
-// Varilable
+// Variable
 
 .text
 .globl _start
