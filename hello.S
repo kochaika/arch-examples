@@ -1,7 +1,7 @@
 .data
 msg:
     .ascii "Hello world!\n"
-// Varilable
+// Variable
 //len:
 //.long . - msg
 
