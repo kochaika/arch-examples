@@ -11,7 +11,7 @@ ld -m elf_i386 -dynamic-linker /lib/ld-linux.so.2 -lc call_libc.o -o call_libc
 ```
 ## Links
 Syscall table: https://faculty.nps.edu/cseagle/assembly/sys_call.html  
-GNU assembly syntax: https://en.wikibooks.org/wiki/X86_Assembly/  
+GNU assembly syntax: https://en.wikibooks.org/wiki/X86_Assembly  
 Branches: https://en.wikipedia.org/wiki/Branch_(computer_science)
 
 ## GDB hints
